@@ -1,0 +1,17 @@
+[
+  {
+    "task": "open_browser",
+    "command": "start chrome",
+    "description": "Opens Google Chrome"
+  },
+  {
+    "task": "open_calculator",
+    "command": "calc",
+    "description": "Opens Calculator"
+  },
+  {
+    "task": "open_music",
+    "command": "start \"/home/sandbox/Music\"",
+    "description": "Opens Music folder"
+  }
+]
