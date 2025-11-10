@@ -1,5 +1,0 @@
-PyQt5
-pyttsx3
-SpeechRecognition
-pyaudio
-requests
