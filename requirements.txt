@@ -1,0 +1,7 @@
+PyQt5
+speechrecognition
+pyaudio ; platform_system == 'Windows' or platform_system == 'Linux'
+pyttsx3
+textblob
+opencv-python
+mediapipe
